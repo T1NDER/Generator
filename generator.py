@@ -1,3 +1,5 @@
+# Задание № 2
+
 import types
 
 

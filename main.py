@@ -1,3 +1,5 @@
+# Задание № 1
+
 class FlatIterator:
 
     def __init__(self, list_of_list):
